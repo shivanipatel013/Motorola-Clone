@@ -70,9 +70,9 @@ All images and branding are used as inspiration and not for commercial use.
 **Shivani Patel**  
 Frontend Developer (Learning Stage)
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-profile/
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivani-patel-b20330299  
+- 📧 Email: shibupatel013@gmail.com
+  
 ---
 
 ⭐ If you like this project, give it a star!
